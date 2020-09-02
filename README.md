@@ -15,5 +15,5 @@ Composição da tela
 - Sempre que um botão de ​cálculo ​(/, +, -, *) for pressionado, ele deve chamar uma ​função​ que execute sua respectiva funcionalidade;
 - O resultado só deve aparecer na tela depois que o usuário clicar no botão de igual (​=​).
 
-### Print 
-<img src="print/printCalculator.png" width="70%" height="70%">
+### Print do App Final
+<img src="print/printCalculator.png" width="50%" height="50%">
